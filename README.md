@@ -6,8 +6,8 @@ Framework Comparison
 > Some lorem ipsum decoration here
 
 | Prons        | Cons          |
-| ------------- |-------------|
-| ``` Some prons definition here.``` | ```Some cons definition here. ``` |
+| ---          | ---           |
+| xxx | xxx |
   
 
 
