@@ -7,10 +7,13 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>At least having</strong><br/><ul><li>Good documentation</li><li>Community 36442 starts on Github</li></ul></pre> | <pre><strong>Something</strong><br/><ul><li>One</li><li>Two</li></ul></pre> |
+| <pre><strong>At least having:</strong><br/><ul><li>Good documentation</li><li>Community 36,442 starts on Github</li><li>Up-to-date repository no building failed.</li></ul></pre> | <pre><strong>Things to anticipate:</strong><br/><ul><li>558 Issues</li><li>Two</li></ul></pre> |
   
 
 
 
 2. [GatsbyJS](https://google.com)
 > Some lorem ipsum decoration here
+
+
+<li></li>
