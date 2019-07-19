@@ -7,10 +7,8 @@ Framework Comparison
 
 | Prons        | Cons          |
 | ------------- |-------------|
-| ```
-  Some prons definition here.```
-| ```
-  Some cons definition here. ``` |
+| ``` Some prons definition here.``` | ```Some cons definition here. ``` |
+  
 
 
 
