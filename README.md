@@ -7,7 +7,7 @@ Framework Comparison
 
 | Prons        | Cons          |
 | ---          | ---           |
-| <pre>DSadaa</pre> | xxx |
+| <pre><ul><li>One</li><li>Two</li></ul></pre> | xxx |
   
 
 
