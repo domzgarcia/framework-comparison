@@ -8,11 +8,10 @@ Framework Comparison
 | Prons        | Cons          |
 | ------------- |-------------|
 | ```
-  Some prons definition here.
-```
+  Some prons definition here.```
 | ```
-  Some cons definition here.
-``` |
+  Some cons definition here. ``` |
+
 
 
 2. [GatsbyJS](https://google.com)
