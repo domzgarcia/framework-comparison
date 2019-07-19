@@ -7,13 +7,16 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><br/><ul><li>Good documentation</li><li>Community 36,442 starts on Github</li><li>Up-to-date repository no building failed.</li><li>Able to integrate with Wordpress Jekyll(MD file)</li><li>Widely used by known companies e.g. AirBnB, Facebook</li></ul></pre> | <pre><strong>Things to be considered:</strong><br/><ul><li>558 Issues</li><li>Used GraphQL as part of the application</li><li>Over 995 packages/recipes support</li></ul></pre> |
+| <pre><strong>Advantages:</strong><br/><ul><li>Good documentation</li><li>SEO Support</li><li>Community 36,442 starts on Github</li><li>Up-to-date repository no building failed.</li><li>Able to integrate with Wordpress Jekyll(MD file)</li><li>Widely used by known companies e.g. AirBnB, Facebook</li></ul></pre> | <pre><strong>Things to be considered:</strong><br/><ul><li>558 Issues</li><li>Used GraphQL as part of the application</li><li>Over 995 packages/recipes support</li></ul></pre> |
   
 
 
 
-2. [GatsbyJS](https://google.com)
-> Some lorem ipsum decoration here
+2. [nextjs](https://nextjs.org/)
+> React Framework with SSR support. 
 
+| **PROS**     | **CONS**      |
+| ---          | ---           |
+| <pre><strong>Advantages:</strong><br/><ul><li>SEO Support</li></ul></pre> | <pre><strong>Things to be considered:</strong><br/><ul><li>SEO Support</li></ul></pre> | 
 
 <li></li>
