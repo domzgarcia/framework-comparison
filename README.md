@@ -7,7 +7,7 @@ Framework Comparison
 
 | Prons        | Cons          |
 | ---          | ---           |
-| 1. dadasd 2. dsadsadsa | xxx |
+| -[x] Blha hagsfda 2. dsadsadsa | xxx |
   
 
 
