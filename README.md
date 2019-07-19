@@ -17,6 +17,6 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><br/><ul><li>SEO Support</li></ul></pre> | <pre><strong>Things to be considered:</strong><br/><ul><li>SEO Support</li></ul></pre> | 
+| <pre><strong>Advantages:</strong><br/><ul><li>Good Documentation</li><li>SEO Support</li></ul></pre> | <pre><strong>Things to be considered:</strong><br/><ul><li>SEO Support</li></ul></pre> | 
 
 <li></li>
