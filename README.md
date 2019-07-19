@@ -7,8 +7,7 @@ Framework Comparison
 
 | Prons        | Cons          |
 | ---          | ---           |
-| <pre><ul>
-<li>One</li><li>Two</li></ul></pre> | xxx |
+| <pre><strong>Something</strong><br/><ul><li>One</li><li>Two</li></ul></pre> | xxx |
   
 
 
