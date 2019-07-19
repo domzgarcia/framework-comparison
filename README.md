@@ -7,7 +7,12 @@ Framework Comparison
 
 | Prons        | Cons          |
 | ------------- |-------------|
-| col 3 is | col 3 is dsadadad |
+| ```
+  Some prons definition here.
+```
+| ```
+  Some cons definition here.
+``` |
 
 
 2. [GatsbyJS](https://google.com)
