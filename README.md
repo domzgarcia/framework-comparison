@@ -5,7 +5,7 @@ Framework Comparison
 1. [GatsbyJS](https://google.com)
 > Some lorem ipsum decoration here
 
-| Prons        | Cons          |
+| **PROS**     | **CONS**      |
 | ---          | ---           |
 | <pre><strong>Something</strong><br/><ul><li>One</li><li>Two</li></ul></pre> | <pre><strong>Something</strong><br/><ul><li>One</li><li>Two</li></ul></pre> |
   
