@@ -7,7 +7,7 @@ Framework Comparison
 
 | Prons        | Cons          |
 | ------------- |-------------|
-| col 3 is      | right-aligned |
+| col 3 is  Some lorem ipsum decoration here Some lorem ipsum decoration here Some lorem ipsum decoration here Some lorem ipsum decoration here     | right-aligned |
 
 
 2. [GatsbyJS](https://google.com)
