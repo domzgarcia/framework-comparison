@@ -7,7 +7,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Something</strong><br/><ul><li>One</li><li>Two</li></ul></pre> | <pre><strong>Something</strong><br/><ul><li>One</li><li>Two</li></ul></pre> |
+| <pre><strong>At least having</strong><br/><ul><li>Good documentation</li><li>Community 36442 starts on Github</li></ul></pre> | <pre><strong>Something</strong><br/><ul><li>One</li><li>Two</li></ul></pre> |
   
 
 
