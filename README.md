@@ -6,7 +6,7 @@ Framework Comparison
 > Some lorem ipsum decoration here
 
 | Prons        | Cons          |
-| ------------- |:-------------:|
+| ------------- |-------------|
 | col 3 is      | right-aligned |
 
 
