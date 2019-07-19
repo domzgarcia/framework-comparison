@@ -3,7 +3,7 @@ Framework Comparison
 
 #### Server-side Rendering
 1. [GatsbyJS](https://google.com)
-> Some lorem ipsum decoration here
+> is a free and open source framework based on React that helps developers build blazing fast websites and apps
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
