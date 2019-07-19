@@ -7,7 +7,17 @@ Framework Comparison
 
 | Prons        | Cons          |
 | ------------- |-------------|
-| col 3 is  Some lorem ipsum decoration here Some lorem ipsum decoration here Some lorem ipsum decoration here Some lorem ipsum decoration here     | right-aligned |
+| col 3 is dsadadad
+dasdadadadasdas
+dasdadasdadadadadad
+dasdadadad d sad ad d adadad
+dada da dad ada dad  das da
+dasdadadasd                  | col 3 is dsadadad
+dasdadadadasdas
+dasdadasdadadadadad
+dasdadadad d sad ad d adadad
+dada da dad ada dad  das da
+dasdadadasd                   |
 
 
 2. [GatsbyJS](https://google.com)
