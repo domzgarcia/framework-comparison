@@ -17,6 +17,6 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><br/><ul><li>Good Documentation</li><li>SEO Support</li></ul></pre> | <pre><strong>Things to be considered:</strong><br/><ul><li>222 Issues</li><li>Tes Build Error (Dependencies)</li></ul></pre> | 
+| <pre><strong>Advantages:</strong><br/><ul><li>Good Documentation</li><li>SEO Support</li></ul></pre> | <pre><strong>Things to be considered:</strong><br/><ul><li>222 Issues</li><li>Test Build Error (Dependencies)</li></ul></pre> | 
 
 <li></li>
