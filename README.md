@@ -22,7 +22,7 @@ Framework Comparison
 
 
 3. [fusionjs](https://fusionjs.com/)
-> Modern framework for fast, powerful React apps. A developer experience you expect from a React/Redux setup and provides tools to take project quality to the next level. 
+> Modern framework for fast, powerful React apps. A developer experience you expect from a React/Redux setup and provides tools to take project quality to the next level. Maintained by UBER.
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
