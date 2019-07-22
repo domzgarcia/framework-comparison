@@ -17,7 +17,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>SEO Support</li><li>Community 39,246 starts on Github</li><li>Accelerated Mobile Pages (AMP) Support</li><li>With Redux Support and Examples</li><li>Typescript Support</li><li>Error handling(Pages)</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>222 Issues</li><li>Test Build Error (Dependencies)</li></ul></pre> | 
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>SEO Support</li><li>Community 39,246 starts on Github</li><li>Accelerated Mobile Pages (AMP) Support</li><li>With Redux Support and Examples</li><li>Typescript Support</li><li>Error Handling (Pages)</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>222 Issues</li><li>Test Build Error (Dependencies)</li></ul></pre> | 
 
 3. [beidou](https://github.com/alibaba/beidou)
 > Isomorphic framework for server-rendered React apps. Created by Alibaba.
