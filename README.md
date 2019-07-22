@@ -21,11 +21,10 @@ Framework Comparison
 
 2. [beidou](https://github.com/alibaba/beidou)
 > Isomorphic framework for server-rendered React apps.
+
 | **PROS**     | **CONS**      |
 | ---          | ---           |
 | <pre><strong></strong><ul><li></li></ul></pre> |
-
-
 
 
 10. [template](template)
