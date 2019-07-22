@@ -32,7 +32,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>template</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li><li>Not popular yet</li><li>Using React Router 4 yet the version now is connected-router.</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Abstraction to Razzle Framework</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li><li>Not popular yet</li><li>Using React Router 4 yet the version now is connected-router.</li></ul></pre> |
 
 5. [ReframeJS](https://github.com/reframejs/reframe)
 > Flexible web framework
