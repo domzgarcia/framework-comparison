@@ -32,7 +32,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>template</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li><li>Not popular yet</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>template</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li><li>Not popular yet</li><li>Using React Router 4. We already in new version, connected-router right now.</li></ul></pre> |
 
 
 10. [template](template)
