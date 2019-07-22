@@ -26,7 +26,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>template</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>template</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>With Redux Support and Examples</li><li>Error Handling (Node)</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>869 Stars on Github</li><li>Having explicit packages/recipes</li><li>117 Issues</li></ul></pre> |
 
 
 
@@ -56,7 +56,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Subject for good scalability</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Subject for good scalability concept</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li></ul></pre> |
 
 
 
