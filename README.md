@@ -32,5 +32,5 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Template</strong><ul><li>template</li></ul></pre> | <pre><strong>Template</strong><ul><li>template</li></ul></pre> |
+| <pre><strong>Template</strong><br/><ul><li>template</li></ul></pre> | <pre><strong>Template</strong><br/><ul><li>template</li></ul></pre> |
 
