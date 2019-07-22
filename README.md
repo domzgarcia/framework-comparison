@@ -24,7 +24,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong></strong><ul><li></li></ul></pre> |
+| <pre><strong>Advantages:</strong><br/><ul><li></li></ul></pre> | <pre><strong>Things to be considered:</strong><br/><ul><li></li></ul></pre> |
 
 
 10. [template](template)
