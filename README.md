@@ -56,7 +56,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Subject for good scalability</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li><li>template</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Subject for good scalability</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li></ul></pre> |
 
 
 
