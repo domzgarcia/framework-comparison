@@ -21,8 +21,8 @@ Framework Comparison
 
 
 
-3. [template](template)
-> template
+3. [fusionjs](https://fusionjs.com/)
+> Modern framework for fast, powerful React apps. A developer experience you expect from a React/Redux setup and provides tools to take project quality to the next level. 
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
