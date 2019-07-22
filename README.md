@@ -24,7 +24,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><br/><ul><li></li></ul></pre> | <pre><strong>Things to be considered:</strong><br/><ul><li></li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li></li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li></li></ul></pre> |
 
 
 10. [template](template)
@@ -32,5 +32,5 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Template</strong><br/><ul><li>template</li></ul></pre> | <pre><strong>Template</strong><br/><ul><li>template</li></ul></pre> |
+| <pre><strong>Template</strong><ul><li>template</li></ul></pre> | <pre><strong>Template</strong><ul><li>template</li></ul></pre> |
 
