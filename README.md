@@ -28,10 +28,10 @@ Framework Comparison
 
 
 
-10. [aaa](aaa)
-> aaa
+10. [template](template)
+> template
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>AAA</strong><ul><li>aaa</li></ul></pre> | <pre><strong>AAA</strong><ul><li>aaa</li></ul></pre> |
+| <pre><strong>Template</strong><ul><li>template</li></ul></pre> | <pre><strong>Template</strong><ul><li>template</li></ul></pre> |
 
