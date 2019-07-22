@@ -51,12 +51,12 @@ Framework Comparison
 
 
 
-6. [ReframeJS](https://github.com/reframejs/reframe)
-> Flexible web framework
+6. [ReframeJS](https://github.com/reframejs/reframe) [rogue.js](https://github.com/alidcastano/rogue.js)
+> Flexible web framework, the "nearly invisible" way to server-render React applications
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Subject for good scalability concept</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good reference to study SSR concepts.</li><li>Subject for good project scalability</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li></ul></pre> |
 
 
 
