@@ -24,7 +24,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>SEO Support</li><li>Typescript Support</li><li>With Redux Support and Examples</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li><li>Not popular yet</li><li>Having explicit packages/recipes</li><li>Test Build Error (Dependencies)
+| <pre><strong>Advantages:</strong><ul><li>SEO Support</li><li>Typescript Support</li><li>With Redux Support and Examples</li><li>Using Generators( * yield )</li><li>Out-of-the-box Classes like Service, Schedule and Extends/Symbol.</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Github Documentation</li><li>Not popular yet</li><li>Having explicit packages/recipes</li><li>Test Build Error (Dependencies)
 </li></ul></pre> |
 
 10. [After.JS](https://github.com/jaredpalmer/after.js)
