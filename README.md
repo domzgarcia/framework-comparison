@@ -68,7 +68,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>With Route, Middleware and Template Management</li><li>Flexible database support/integration</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>With Route, Middleware and Template Management</li><li>Community 44,761 starts on Github</li><li>Flexible database support/integration</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
 
 
 
