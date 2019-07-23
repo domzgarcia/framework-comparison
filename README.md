@@ -75,7 +75,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>XXX XXX XXX</li><li>Community 6,629 starts on Github</li><li>XXX XXX</li><li>XXX XXX</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>Route, IoC & Service Providers, View Management</li><li>Community 6,629 starts on Github</li><li>XXX XXX</li><li>XXX XXX</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
 
 
 
