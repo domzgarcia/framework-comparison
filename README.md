@@ -68,14 +68,14 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>With Route, Middleware and Template Management</li><li>Community 44,761 starts on Github</li><li>Flexible database support/integration</li><li>Error Handler</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>Route, Middleware and View Management</li><li>Community 44,761 starts on Github</li><li>Flexible database support/integration</li><li>Error Handling</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
 
 2. [adonisjs](https://adonisjs.com)
 > The Node.js Framework highly focused on developer ergonomics, stability and confidence @ version 4.1
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>Route, IoC & Service Providers, View Management</li><li>Community 6,629 starts on Github</li><li>XXX XXX</li><li>XXX XXX</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>Route, Middlewares, IoC & Service Providers, View Management</li><li>Community 6,629 starts on Github</li><li>Error Handling & Logger</li><li>Active Records Databases</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
 
 
 
