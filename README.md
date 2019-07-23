@@ -77,7 +77,12 @@ Framework Comparison
 | ---          | ---           |
 | <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>Route, Middlewares, IoC & Service Providers, View</li><li>Community 6,629 starts on Github</li><li>Error Handling & Logger</li><li>Supports ONLY Relational Database Management System </li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Issues will be addressed on v5 release</li><li>Having explicit packages/recipes</li></ul></pre> |
 
+3. [fastify](https://www.fastify.io/)
+> Fast and low overhead web framework, for Node.js
 
+| **PROS**     | **CONS**      |
+| ---          | ---           |
+| <pre><strong>Advantages:</strong><ul><li>template</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>template</li></ul></pre> |
 
 
 2. [template](template)
