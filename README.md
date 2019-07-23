@@ -64,7 +64,7 @@ Framework Comparison
 #### Server Focused NodeJS Framework
 
 1. [expressjs](https://expressjs.com/)
-> template
+> Fast, unopinionated, minimalist web framework for Node.js @ version 4.17.1
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
