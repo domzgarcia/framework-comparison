@@ -82,7 +82,18 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Route, Middlewares, Logging and Errors</li><li>Community 11,355 starts on Github</li><li>Data Schema for every object for speedability</li><li>Flexible in any Database</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>40+ Issue</li><li>Having explicit packages/recipes</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Route, Middlewares, Logging and Errors</li><li>Community 11,355 starts on Github</li><li>Data Schema for every object for speedability</li><li>Flexibility for any Database Integration</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>40+ Issue</li><li>Having explicit packages/recipes</li></ul></pre> |
+
+
+4. [template](template)
+> template
+
+| **PROS**     | **CONS**      |
+| ---          | ---           |
+| <pre><strong>Advantages:</strong><ul><li>template</li> <li>template</li> <li>template</li> <li>template</li> </ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>template</li></ul></pre> |
+
+
+
 
 
 2. [template](template)
