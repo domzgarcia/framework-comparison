@@ -90,7 +90,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>template</li> <li>template</li> <li>template</li> <li>template</li> </ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>template</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li> <li>template</li> <li>template</li> <li>template</li> </ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>template</li></ul></pre> |
 
 
 
