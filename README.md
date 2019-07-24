@@ -75,14 +75,14 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>Route, Middlewares, IoC & Service Providers, View</li><li>Community 6,629 starts on Github</li><li>Error Handling & Logger</li><li>Supports ONLY Relational Database Management System </li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Issues will be addressed on v5 release</li><li>Having explicit packages/recipes</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Route, Middlewares, IoC & Service Providers, View</li><li>Community 6,629 starts on Github</li><li>Error Handling & Logger</li><li>Supports ONLY Relational Database Management System </li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Issues will be addressed on v5 release</li><li>Having explicit packages/recipes</li></ul></pre> |
 
 3. [fastify](https://www.fastify.io/)
 > Fast and low overhead web framework, for Node.js
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation, community and support</li><li>Route, Middlewares, Logging and Errors</li><li>Community 11,355 starts on Github</li><li>Data Schema for every object for speedability</li><li>Flexible in any Database</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>40+ Issue</li><li>Having explicit packages/recipes</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Route, Middlewares, Logging and Errors</li><li>Community 11,355 starts on Github</li><li>Data Schema for every object for speedability</li><li>Flexible in any Database</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>40+ Issue</li><li>Having explicit packages/recipes</li></ul></pre> |
 
 
 2. [template](template)
