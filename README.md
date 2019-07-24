@@ -90,7 +90,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Route, Middlewares, Logging and Errors</li><li>XXX </li><li>XXX </li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Route/Context, Middlewares and Views</li><li>Promotes modern js syntax</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
 
 
 
