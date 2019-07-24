@@ -86,7 +86,7 @@ Framework Comparison
 
 
 4. [koajs](https://koajs.com/)
-> Expressive middleware for node.js using ES2017 async functions
+> A smaller, more expressive, and more robust foundation for web applications and APIs.
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
