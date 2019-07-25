@@ -97,7 +97,7 @@ Framework Comparison
 
 
 4. [foal](https://foalts.gitbook.io)
-> template
+> A lightweight framework provides everything needed to create enterprise-grade applications
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
@@ -110,7 +110,7 @@ Framework Comparison
 
 
 2. [template](template)
-> A lightweight framework provides everything needed to create enterprise-grade applications
+> XXX
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
