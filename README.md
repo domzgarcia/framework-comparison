@@ -112,6 +112,6 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>template</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>template</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>FoalTS written in Typescript</li><li>Has architecture such Controllers, Service, DI and Hooks</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>template</li></ul></pre> |
 
 
