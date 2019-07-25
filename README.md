@@ -90,7 +90,18 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Route/Context, Middlewares and Views</li><li>Promotes modern js syntax</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Barebone only liteweight and improve performance.</li><li>Promotes modern js syntax</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Basic server setup</li><li>Having explicit packages/recipes</li></ul></pre> |
+
+
+
+
+
+4. [foal](https://foalts.gitbook.io)
+> template
+
+| **PROS**     | **CONS**      |
+| ---          | ---           |
+| <pre><strong>Advantages:</strong><ul><li>template</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>template</li></ul></pre> |
 
 
 
