@@ -110,7 +110,7 @@ Framework Comparison
 
 
 2. [template](template)
-> template
+> A lightweight framework provides everything needed to create enterprise-grade applications
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
