@@ -75,7 +75,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Route, Middlewares, IoC & Service Providers, View</li><li>Community 6,629 starts on Github</li><li>Error Handling & Logger</li><li>Supports ONLY Relational Database Management System </li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Issues will be addressed on v5 release</li><li>Having explicit packages/recipes</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Route, Middlewares, IoC & Service Providers, View</li><li>Community 6,629 starts on Github</li><li>Error Handling & Logger</li><li>Supports ONLY Relational Database Management System </li><li>CLI Tools</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Issues will be addressed on v5 release</li><li>Having explicit packages/recipes</li></ul></pre> |
 
 3. [fastify](https://www.fastify.io/)
 > Fast and low overhead web framework, for Node.js
@@ -101,7 +101,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>FoalTS written in Typescript</li><li>Has architecture such Controllers, Service, DI and Hooks</li><li>Written in TypeScript</li><li>Has <b>Connect</b> to Frontend Resolution</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Opinionated</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>FoalTS written in Typescript</li><li>Has architecture such Controllers, Service, DI and Hooks</li><li>CLI Tools</li><li>Has <b>Connect</b> to Frontend Resolution</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Opinionated</li></ul></pre> |
 
 
 
