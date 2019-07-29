@@ -109,6 +109,19 @@ Framework Comparison
 
 
 
+2. [NestJS](https://docs.nestjs.com)
+> Nest (or NestJS) is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with and fully supports TypeScript (yet still enables developers to code in pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+
+| **PROS**     | **CONS**      |
+| ---          | ---           |
+| <pre><strong>Advantages:</strong><ul><li>template</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>template</li></ul></pre> |
+
+
+
+
+
+
+
 2. [template](template)
 > XXX
 
