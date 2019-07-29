@@ -96,7 +96,7 @@ Framework Comparison
 
 
 
-4. [foal](https://foalts.gitbook.io)
+4. [foalTS](https://foalts.gitbook.io)
 > A lightweight framework provides everything needed to create enterprise-grade applications. Like NestJS supports TS natively and inspired in Angular Anchitecure. Foal's architecture is meant to be simpler and easily approachable from non-Angular developers.
 
 | **PROS**     | **CONS**      |
