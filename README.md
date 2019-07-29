@@ -114,7 +114,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Has Controllers, Providers, DI, Modules View.</li><li>Also Middlewares, Guards, Pipes, Interceptors.</li><li>Uses custom decorators</li><li>Able to integrate with Fastify using Adapter.</li><li>Logger and Errors</li><li>TypeORM and Mongoose</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Use of decorators are too much</li><li>Adheres to module controller services.</li><li>Very likely Angular2 Architecture</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Has Controllers, Providers, DI, Modules View.</li><li>Also Middlewares, Guards, Pipes, Interceptors.</li><li>Uses custom decorators</li><li>Able to integrate with Fastify using Adapter.</li><li>Logger and Errors</li><li>TypeORM and Mongoose</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Use of decorators are too much</li><li>Adheres to module controller services.</li><li>Very likely Angular2 Architecture</li><li>80 Issues</li></ul></pre> |
 
 
 
