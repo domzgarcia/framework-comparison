@@ -114,7 +114,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Has Controllers, Providers, DI, Modules.</li><li>Also Middlewares, Guards, Pipes, Interceptors of a kind.</li><li>Uses custom decorators</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>XXX</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Has Controllers, Providers, DI, Modules.</li><li>Also Middlewares, Guards, Pipes, Interceptors and View.</li><li>Uses custom decorators</li><li>Able to integrate with Fastify using Adapter.</li><li>Logger and Errors</li><li>TypeORM and Mongoose</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Use of decorators</li><li>Implement module controller services.</li></ul></pre> |
 
 
 
