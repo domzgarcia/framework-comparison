@@ -114,7 +114,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Has architecture such Ctrls, Providers, DI, Modules, Pipes, Guards, Interceptors</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>XXX</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>Controllers, Providers, DI, Modules etc.</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>XXX</li></ul></pre> |
 
 
 
