@@ -101,7 +101,7 @@ Framework Comparison
 
 | **PROS**     | **CONS**      |
 | ---          | ---           |
-| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>FoalTS written in Typescript</li><li>Has architecture such Controllers, Service, DI and Hooks</li><li>CLI Tools</li><li>Has <b>Connect</b> to Frontend Resolution</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>Not Popular</li><li>27 Issues</li></ul></pre> |
+| <pre><strong>Advantages:</strong><ul><li>Good Documentation</li><li>FoalTS written in Typescript</li><li>Has architecture such Controllers, Service, DI and Hooks</li><li>CLI Tools</li><li>Has <b>Connect</b> to Frontend Resolution</li></ul></pre> | <pre><strong>Things to be considered:</strong><ul><li>No MongoDB Session</li><li>Not Popular</li><li>27 Issues</li></ul></pre> |
 
 
 
